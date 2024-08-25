@@ -1,0 +1,2 @@
+ViTImageClassification - https://huggingface.co/ItsNotRohit/ISL-Models/resolve/main/ISL-ViTImageClassification.pth?download=true
+YOLOv8mBoundingBox - https://huggingface.co/ItsNotRohit/ISL-Models/resolve/main/ISL-YOLOv8mBoundingBox.pt?download=true
